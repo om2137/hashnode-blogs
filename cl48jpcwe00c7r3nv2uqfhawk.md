@@ -34,8 +34,7 @@ In very basic form, a smart contract is first compiled and tested on hardhat, th
 
 This article is just an overview of the project. What components does it use and what is the basic structure and working of the project. 
 **In future articles, we will see each component in-depth and how the project is made from scratch.** <br>
-This project was built by following the intro to web3 by **Abhi Bisht**(ABTube) <br>
-YT link: https://www.youtube.com/playlist?list=PLuPvKxJFzkLEFEJTm7DAIsmOUox-61tV0
+
 
 follow on Twitter: https://twitter.com/omtwts
 

@@ -1,4 +1,4 @@
-## Computer Science in Mumbai University
+## Computer Science in Mumbai University R19 Scheme
 
 # What will you learn in a Computer Science degree
 
@@ -53,7 +53,39 @@ Subjects per semester are as follows:
 4.	Artificial Intelligence
 5.	Internet of things(Department level course)
 
-Semester 7 and Semester 8 will be updated soon as of this moment syllabus is not available.
+### Semester 7:
+1. Machine Learning
+2. Big Data Analytics
+3. Department level course
+4. Department level course
+5. Institute level course
+
+Department level choice any 1 of 3
+1. Machine Vision
+2. Cyber Security
+3. Natural Language Processing
+
+Department level choice any 1 of 3
+1. Augmented and Virtual Reality
+2. Block Chain
+3. Information Retrieval
+
+### Semester 8:
+1. Distributed Computing
+2.	Department level course
+3. Department level course
+4. Institute level course
+
+Department level choice any 1 of 3
+1. Deep Learning
+2. Digital Forensic
+3. Applied Data Science
+
+Department level choice any 1 of 3
+1. Optimization in Machine Learning
+2. High Performance Computing
+3. Social Media Analytics
+
 These are the theoretical subjects/courses besides them there are a few skill-based courses and practical courses.
 Detailed posts on each course will come as a series.
 

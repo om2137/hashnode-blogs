@@ -1,12 +1,12 @@
 ## Thoughts - decentralized Twitter-like app (web3.0)
 
 # Thoughts - Decentralized twitter-like app (Block-chain Project) 
-live at: https://thoughts-iota.vercel.app/
+live at: https://dthoughts.vercel.app/
 
 ## **Overview**
 
 This is a very basic blockchain project, which is a short message(thought) sharing app. This is basically a decentralized twitter-like app, which takes users and allows them to share a short message which is publicly viewable.
-The source code for this is available on GitHub on following 
+The source code for this is available on GitHub at the following 
 link: https://github.com/om2137/Thoughts
 
 ## **Components used**
@@ -25,7 +25,7 @@ link: https://github.com/om2137/Thoughts
 This project is divided into two parts one is a contract, where the smart contract resides and the other is a decentralized app(Dapp). <br>
 In the first part, there is a smart contract written in solidity which has two main components user and thought. Users have their address, name, unique username, bio, and avatar. Address and username are unique to each user. This contract has the basic features used by the user like signup and posting messages. <br>
 In the second part, there is a next.js app that has the components which we will see and use to interact with the application. It has the index.tsx in pages which is the main page where all other components are assembled like the signup page, the home page, etc. It also contains a hook useThoughts.ts which is used to connect the application with the contract. It has all the functions like connect, createuser(signup), post message, etc. used in the application. <br>
-In very basic form, a smart contract is first compiled and tested on hardhat, then a node or a local Ethereum network which have multiple accounts. The smart contract is then deployed on the local network and we get the address. This address is used in dapp to connect with the contract and the local network. Dapp is ready to run, when first started you will have to connect it with the metamask, and then one of the accounts on the local network which we ran with hardhat. After connecting metamask signup with the relevant information and then the user is ready to tweet.
+In very basic form, a smart contract is first compiled and tested on hardhat, then a node or a local Ethereum network which have multiple accounts. The smart contract is then deployed on the local network and we get the address. This address is used in Dapp to connect with the contract and the local network. Dapp is ready to run, when first started you will have to connect it with the metamask, and then one of the accounts on the local network which we ran with hardhat. After connecting Metamask signup with the relevant information and then the user is ready to tweet.
 
 
 ![working archi.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1654684234662/2SiCQAuOs.png align="left")

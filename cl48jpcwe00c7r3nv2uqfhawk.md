@@ -9,6 +9,8 @@ This is a very basic blockchain project, which is a short message(thought) shari
 The source code for this is available on GitHub at the following 
 link: https://github.com/om2137/Thoughts
 
+%[https://youtu.be/BbcPDPcfD-8]
+
 ## **Components used**
 
 **Ethereum:** project is based on Ethereum as a smart contract platform. <br>

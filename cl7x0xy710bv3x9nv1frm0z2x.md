@@ -4,7 +4,7 @@
 
 # Overview
 This project is an application of AR and face tracking. It is an android app that runs on arcore-supported devices. It maps out the user's face and tracks it. There are a few filters added to this app that users can switch from. Users can record the video of an ongoing session with the button on the bottom. The stored session will be stored in local device storage and can be accessed through a gallery or file manager. <br/>
-Link for the project : 
+Link for the project : https://github.com/om2137/FaceRec
 
 # Components used:
 ### Unity 
